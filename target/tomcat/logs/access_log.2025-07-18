@@ -1,0 +1,2 @@
+192.168.89.74 - - [18/Jul/2025:05:54:08 +0000] "GET /?id=25bf625d-1e14-437b-98a3-db90ffd30487&vscodeBrowserReqId=1752818048009 HTTP/1.1" 404 951 http-bio-8080-exec-1 36
+192.168.89.74 - - [18/Jul/2025:05:55:01 +0000] "GET /?id=cf809f16-9125-4f76-9d59-9fdf32605d95&vscodeBrowserReqId=1752818100606 HTTP/1.1" 404 951 http-bio-8080-exec-3 10
