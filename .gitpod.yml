@@ -1,1 +1,7 @@
+tasks:
+  - init: mvn clean install
+    command: mvn tomcat7:run
+ports:
+  - port: 8080
+    onOpen: open-preview
 
